@@ -1,0 +1,97 @@
+body{
+    margin: 0 0 0 0px;
+}
+
+
+header{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    position: sticky;
+    top: 0px;
+}
+
+
+#Fondo{
+    background-color: grey;
+    padding-bottom: 1000px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+#FBox{
+    background-image: linear-gradient(0deg,rgba(0,0,0,.52),rgba(0,0,0,.52)), URL(https://talently.tech/blog/wp-content/uploads/2022/03/ramas-de-la-programacion-scaled.jpg);
+    background-size: cover;
+    height: 280px;
+    background-position: center;
+}
+
+
+#Ftext{
+    font-family: monospace;
+    text-align: center;
+    font-size: 46px;
+    color: white;
+    padding: 71px 300px 0px 300px;
+}
+
+
+#FDtext{
+    font-size: small;
+    font-weight: normal;
+    margin-right: 645px;
+    padding-top: 1px;
+    margin-bottom: 25px;
+}
+
+#FDtext2{
+    /*padding-top: 45px;*/ 
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black ;
+    position: relative;
+}
+
+
+#image{
+    width: 590px;
+    padding-left: 492px;
+    display: block;
+    margin-top: -317px;
+}
+
+#GuideBox{
+    background-color: white;
+    font-weight: normal;
+    font-size: 10px;
+    border: 2px solid black;
+    margin-right: 777px;
+    margin-bottom: 20px;
+    /*margin-top: -200px;*/
+}
+
+#FGuideBox{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: rgb(213, 108, 3);
+}
+
+h1{
+    padding-left: 10px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
